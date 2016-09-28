@@ -6,10 +6,10 @@ Voici mon Blog, écrit en Anglais qui présente mes passions.
 
 Mots-clés : #Passions #Séries #Football
 Favicon: 
-![Lune](_lune-4_jpg.jpeg)
+![Lune](lune-4_jpg.jpeg)
 
 Bannière Web: 
-![Background](_Space.jpg)
+![Background](Space.jpg)
 
 Couleurs : 
 * HEX:#000000
